@@ -1,4 +1,4 @@
-<?php
+<?php>
 session_start();
 
 function generateRandomString($length = 10) {
